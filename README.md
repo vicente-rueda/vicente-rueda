@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola, soy Vicente Rueda Gómez
 
-<!--
-**vicente-rueda/vicente-rueda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Técnico de sistemas cloud (Azure) · IA aplicada y automatización · Base en data analytics**
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tengo experiencia previa como administrador de sistemas cloud en Microsoft Azure
+y la certificación AZ-900 (Azure Fundamentals). Antes de dedicarme a la tecnología
+dirigí durante 18 años una empresa de transportes, así que estoy acostumbrado a
+trabajar con clientes, equipos y presión.
+
+Estoy reciclando mi práctica técnica con proyectos reales de sistemas y cloud,
+y los documento aquí paso a paso.
+
+## En lo que estoy trabajando
+
+- Inventario, bastionado y copias de seguridad de un servidor Linux (VPS)
+- Máquina virtual Linux con servidor web en Azure
+- Altas y bajas de usuarios en Microsoft Entra ID con PowerShell
+
+## Tecnologías
+
+Azure · Linux · Git y GitHub · Python · SQL · Power BI · n8n
+
+## Contacto
+
+- LinkedIn: [vicenterueda](https://www.linkedin.com/in/vicenterueda)
+- Web: [vicenterueda.com](https://vicenterueda.com)
